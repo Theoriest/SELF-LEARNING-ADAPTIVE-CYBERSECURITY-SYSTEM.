@@ -13,3 +13,5 @@ AI-driven cybersecurity system that automates real-time threat detection and net
 
 ** Modular and Scalable Architecture **  
   Designed with flexibility in mind, the system is built using modular components that can be independently develped,    tested, and scaled. This architecture not only facilitates integration with existing infrastructure but also allows    for continuous updates as new threats emerge.
+
+  THE PROJECT MOVED TO THHIS FOLDER https://github.com/Theoriest/Cyber-sec-v1
